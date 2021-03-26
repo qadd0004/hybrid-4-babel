@@ -1,0 +1,26 @@
+{
+  "name": "HYBRID4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel js -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qadd0004/hybrid-4-babel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qadd0004/hybrid-4-babel/issues"
+  },
+  "homepage": "https://github.com/qadd0004/hybrid-4-babel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12"
+  }
+}
