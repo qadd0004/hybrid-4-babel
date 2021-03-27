@@ -6,3 +6,9 @@ body {
     font-size: 1.125rem;
     padding: 2rem;
 }
+
+.output {
+    font-size: 1.6rem;
+    color: cyan;
+    margin-bottom: 2rem;
+}
